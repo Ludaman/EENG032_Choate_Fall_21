@@ -1,0 +1,14 @@
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+EXIT
+exit
+Hello Jeff
+Goodbye Jeff
+and today is
+the day
+Received User Input
