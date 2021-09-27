@@ -13,5 +13,9 @@ There is a python file in the week 2 folder with the assignment due for week 2 l
 There is a python file in the week 2 folder with the assignment due for week 2 lesson 3:
 [LINKED HERE](Week%202/wk2_HW_Wk2_Lesson_3.py)
 
+## Week2 Lesson 4 Instruction
+There is a python file in the week 2 folder with the assignment due for week 2 lesson 4:
+[LINKED HERE](Week%202/wk2_HW_Wk2_Lesson_4.py)  The data for the reading of it is colocated with that file in the same folder.
+
 ---Jeff Choate
 
